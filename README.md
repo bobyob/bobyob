@@ -7,7 +7,7 @@ I'm currently an <a href="https://www.linkedin.com/in/anthony-ma-451090327/">Ele
 - **Collaborative Ownership:** Building alongside peers who challenge assumptions, passionate people who push each other to improve.
 - **Continuous Growth:** Diving deep into learning and discovering everything life has to offer
 
-See some of my projects below!
+See some of my projects at https://anthonyma.netlify.app
 
 <!--
 Here are some ideas to get you started:
